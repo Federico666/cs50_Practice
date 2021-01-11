@@ -9,3 +9,5 @@ for row in rows:
 > "But if thought corrupts language, language can also corrupt thought."
 
 For more news you can visit [Infobae](https://www.infobae.com/)
+
+[Click(]https://github.com/FedericoGGM/cs50_Practice/blob/master/README.md#cs50_practice)
