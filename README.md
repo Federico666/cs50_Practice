@@ -13,10 +13,10 @@ For more news you can visit [Infobae](https://www.infobae.com/)
 [Click](https://github.com/FedericoGGM/cs50_Practice/blob/master/README.md#cs50_practice)
 
 
-* Winston Smith
-* Guy Montag
-* Snowball
-* John Wilder
+- Winston Smith
+- Guy Montag
+- Snowball
+- John Wilder
 
 1. SPAM
 2. SPAM
