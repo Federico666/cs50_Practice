@@ -12,7 +12,7 @@ For more news you can visit [Infobae](https://www.infobae.com/)
 
 [Click](https://github.com/FedericoGGM/cs50_Practice/blob/master/README.md#cs50_practice)
 
-- Winston Smith
+ - Winston Smith
 - Guy Montag
 - Snowball
 - John Wilder
