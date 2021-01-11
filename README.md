@@ -7,3 +7,5 @@ for row in rows:
 ```
 
 > "But if thought corrupts language, language can also corrupt thought."
+
+For more news you can visit [Infobae](https://www.infobae.com/)
