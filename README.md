@@ -10,4 +10,4 @@ for row in rows:
 
 For more news you can visit [Infobae](https://www.infobae.com/)
 
-[Click(]https://github.com/FedericoGGM/cs50_Practice/blob/master/README.md#cs50_practice)
+[Click](https://github.com/FedericoGGM/cs50_Practice/blob/master/README.md#cs50_practice)
